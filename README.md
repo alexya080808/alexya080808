@@ -1,7 +1,7 @@
 ## Hello, I'm Alexya Sanches Peres
 
 <p align="center">
-  <em>System development • Design</em>
+  <em>Student • System development • Design</em>
 </p>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
   <p align="center">
  I'm a developer, future animation designer, and creative. Here you'll find projects I've
-    developed, websites using a variety of languages like CSS, HTML, JavaScript, and more.
+    developed, websites using a variety of languages like CSS, HTML, JavaScript, and more. I am a violinist and a systems development student.
 </p>
 
 <p align="center">
@@ -48,6 +48,25 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=alexya080808&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexya080808&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 
 <div align="center">
   
