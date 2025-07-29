@@ -19,6 +19,10 @@
   <a href="https://www.linkedin.com/in/alexya-sanches-peres/">
     <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
+  <a href="mailto:contato@fernandakipper.com">
+    <img src="https://img.shields.io/badge/-contato@alexyasperes.com-6633cc?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
 ## 🛠️ Minha Stack Tecnológica
   <div align="center">
@@ -51,21 +55,13 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alexya080808&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexya080808&show_icons=true&theme=tokyonight&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexya080808&layout=compact&theme=tokyonight)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexya080808&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+</div>
 
 
 <div align="center">
