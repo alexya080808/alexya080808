@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/alexya-sanches-peres/">
     <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="mailto:contato@fernandakipper.com">
+  <a href="mailto:contato@alexyasperes.com">
     <img src="https://img.shields.io/badge/-contato@alexyasperes.com-6633cc?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
