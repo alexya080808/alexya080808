@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![Coding](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9933FF&center=true&vCenter=true&width=940&lines=Bem-vindos+à+minha+página!;+demostração+de+sites+que+desenolvi+com...;frontend+e+backend!)
+  ![Coding](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9933FF&center=true&vCenter=true&width=940&lines=Bem-vindos+à+minha+página!;+demostração+de+sites+que+desenvolvi+com...;frontend+e+backend!)
 
   <img src="https://blog.prozeducacao.com.br/wp-content/uploads/2022/11/analista-de-sistema-1096x617.jpg"/>
 
